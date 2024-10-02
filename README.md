@@ -5,6 +5,8 @@
 
 Welcome to our top-tier casino software development services, where we deliver **customized** and **innovative solutions** tailored to your casino’s vision. Our feature-rich "Classic Crypto Casino" source code includes popular games like **Crash**, **Dice**, and **Blackjack**. It operates with **provably fair mechanics**, supports multiple languages, and integrates with cryptocurrency payments. Built on the **Laravel** framework, it comes with an easy-to-use **admin panel** and offers seamless integration with **third-party APIs**.
 
+![Online Casino Script](https://online-casino-scripts.com/images/items/2volejrejnmg/NSpGltdSqrd2R04_1720883066.webp)
+
 ## 🚀 Why Choose Our Casino Solutions?
 
 With years of experience in the casino and gaming industry, our team specializes in **bespoke software solutions** designed to meet the needs of your business. We provide high-quality, secure platforms to ensure a smooth and engaging experience for your players.
